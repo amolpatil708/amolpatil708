@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amolpatil708
+- 👀 I’m interested in web development and ethical hacking
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me amolpatil708@gmail.com
